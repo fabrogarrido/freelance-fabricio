@@ -46,7 +46,7 @@ freelancer/
 ## 🌐 Demo
 
 Si está publicada en GitHub Pages:  
-👉 [Ver demo en vivo](https://<tu-usuario>.github.io/freelancer)
+👉 [Ver demo en vivo](https://fabrogarrido.github.io/freelance-fabricio)
 
 ---
 
