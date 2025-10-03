@@ -26,7 +26,6 @@ freelancer/
 ├── img/
 └── README.md
 
-
 ---
 
 ## 🛠️ Tecnologías utilizadas
@@ -34,12 +33,6 @@ freelancer/
 - HTML5  
 - CSS3 (Flexbox & Grid)  
 - Google Fonts / Iconos  
-
----
-
-## 📸 Capturas
-
-*(Opcional: agregar screenshots de la web una vez online)*
 
 ---
 
