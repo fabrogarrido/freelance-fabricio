@@ -22,7 +22,7 @@ freelancer/
 ├── servicios.html
 ├── contacto.html
 ├── css/
-│ └── style.css
+└── style.css
 ├── img/
 └── README.md
 
